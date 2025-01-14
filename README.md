@@ -6,24 +6,24 @@
 ---
 
 <!-- ABOUT ME -->
-### 👨‍💻 About Me:
-- 🌱 I started coding at **age 9**, learning **HTML** & **CSS**.
-- 💼 I specialize in **fullstack development**.
-- 🎨 My portfolio: [ruhanpacolli.online](https://ruhanpacolli.online)
-- 🚀 Always exploring new technologies and creative solutions.
+## 👨‍💻 About Me
+Hi! I'm **Ruhan Pacolli**, a passionate developer and designer who started coding at the age of **9**. My journey began with **HTML** and **CSS**, and over the years, I've built expertise in front-end and back-end development, UI/UX design, and more.
+
+- 🌱 Currently enhancing my skills in **full-stack development**.
+- 🌐 Explore my portfolio: [ruhanpacolli.online](https://ruhanpacolli.online)
+- 🚀 Open to collaborating on exciting projects and innovative ideas.
 
 ---
 
 <!-- TECH STACK -->
-### ⚙️ My Tech Stack:
-#### **Front-End**
+## ⚙️ My Tech Stack
+### Front-End
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </div>
 
-#### **Back-End**
+### Back-End
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
@@ -39,17 +39,16 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Discord%20API-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord API" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </div>
 
-#### **DevOps**
+### DevOps
 <div align="center">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/CLI%20&%20Terminal-000000?style=for-the-badge" alt="CLI & Terminal" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
   <img src="https://img.shields.io/badge/CPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="CPanel" />
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
 </div>
@@ -57,14 +56,14 @@
 ---
 
 <!-- CERTIFICATIONS -->
-### 📜 Certifications:
+## 📜 Certifications
 - **[Codecademy SQL Certification](https://www.ruhanpacolli.online/assets/files/codecademy_sql.pdf)**
 - **[Codecademy TypeScript Certification](https://www.ruhanpacolli.online/assets/files/codecademy_ts.pdf)**
 
 ---
 
 <!-- PROJECTS -->
-### 🌟 Featured Projects:
+## 🌟 Featured Projects
 1. 🎨 **Portfolio Website**  
    🔗 [ruhanpacolli.online](https://ruhanpacolli.online)  
    A personal showcase of my work, skills, and projects.
@@ -80,24 +79,18 @@
 ---
 
 <!-- CONNECT WITH ME -->
-### 🌐 Connect with Me:
+## 🌐 Connect with Me
 <div align="center">
   <a href="https://twitter.com/ruhanpaco" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://instagram.com/ruhanpaco" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="mailto:pacolliruhan844@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
 ---
 
 <!-- GITHUB STATS -->
-### 📊 GitHub Stats:
+## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ruhanpaco&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhanpaco&layout=compact&theme=radical" alt="Top Languages">
 </div>
-
----
-
-### 🎉 Fun Fact:
-```javascript
-const motivation = "Coding since 9, creating for life!";
-console.log(motivation);
