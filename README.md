@@ -16,8 +16,10 @@ Hi! I'm **Ruhan Pacolli**, a passionate developer and designer who started codin
 ---
 
 <!-- SUPPORT -->
+<!-- SUPPORT -->
 ## 💚 Support
 I contribute to **Stripe Climate** and welcome your support!  
+Your contribution helps combat climate change through Stripe's platform, and every bit counts. 🌍💚
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B819KPYC)  
 
