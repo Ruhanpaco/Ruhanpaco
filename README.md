@@ -23,9 +23,11 @@ I contribute to **Stripe Climate** and welcome your support!
 
 <div align="center">
   <a href="https://climate.stripe.com/X9tURq" target="_blank">
-    <img src="https://ruhanpacolli.online/assets/img/StripeClimateBadge.svg" alt="Stripe Climate Badge" width="100" />
+    <div style="display: flex; align-items: center; background-color: #60B05D; padding: 5px 10px; border-radius: 20px;">
+      <img src="https://ruhanpacolli.online/assets/img/StripeClimateBadge.svg" alt="Stripe Climate Badge" width="20" style="margin-right: 8px;" />
+      <span style="color: white; font-size: 16px; font-weight: bold;">Contribute to Stripe Climate</span>
+    </div>
   </a>
-  <img src="https://img.shields.io/badge/Contribute-to%20Stripe%20Climate-60B05D" alt="Contribute to Stripe Climate" width="180" />
 </div>
 
 
