@@ -15,6 +15,20 @@ Hi! I'm **Ruhan Pacolli**, a passionate developer and designer who started codin
 
 ---
 
+<!-- SUPPORT -->
+## 💚 Support
+I contribute to **Stripe Climate** and welcome your support!  
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B819KPYC)  
+
+<div align="center">
+  <a href="https://climate.stripe.com/X9tURq" target="_blank">
+    <img src="https://ruhanpacolli.online/assets/img/StripeClimateBadge.svg" alt="Stripe Climate Badge" width="200" />
+  </a>
+</div>
+
+---
+
 <!-- TECH STACK -->
 ## ⚙️ My Tech Stack
 ### Front-End
