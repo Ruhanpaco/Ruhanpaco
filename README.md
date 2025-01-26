@@ -23,7 +23,7 @@ I contribute to **Stripe Climate** and welcome your support!
 
 <div align="center">
   <a href="https://climate.stripe.com/X9tURq" target="_blank">
-    <img src="https://ruhanpacolli.online/assets/img/StripeClimateBadge.svg" alt="Stripe Climate Badge" width="100" />
+    <img src="https://ruhanpacolli.online/assets/img/Contribute.png" alt="Stripe Climate Badge"/>
   </a>
 </div>
 
