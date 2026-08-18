@@ -3,9 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:161B22,100:2563EB&height=190&section=header&text=RUHAN%20PACOLLI&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20FOUNDER%20%7C%20BUILDER&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/flosskosova/Flossk_branding/raw/refs/heads/main/logos/symbol/white.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/flosskosova/Flossk_branding/raw/refs/heads/main/logos/symbol/black.svg">
-  <img src="https://github.com/flosskosova/Flossk_branding/raw/refs/heads/main/logos/symbol/black.svg" width="72" alt="FLOSSK logo">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ruhanpaco/Ruhanpaco/main/assets/flossk-white.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ruhanpaco/Ruhanpaco/main/assets/flossk-black.svg">
+  <img src="https://raw.githubusercontent.com/Ruhanpaco/Ruhanpaco/main/assets/flossk-black.svg" width="210" alt="FLOSSK logo">
 </picture>
 
 ### Software Engineer · Founder · Open Source · IoT
@@ -55,12 +55,12 @@ FLOSSK is especially close to the kind of work I enjoy: **open source, technolog
 <td width="45%" align="center" valign="middle">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/flosskosova/Flossk_branding/raw/refs/heads/main/logos/symbol/white.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/flosskosova/Flossk_branding/raw/refs/heads/main/logos/symbol/black.svg">
-  <img src="https://github.com/flosskosova/Flossk_branding/raw/refs/heads/main/logos/symbol/black.svg" width="150" alt="FLOSSK">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ruhanpaco/Ruhanpaco/main/assets/flossk-white.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ruhanpaco/Ruhanpaco/main/assets/flossk-black.svg">
+  <img src="https://raw.githubusercontent.com/Ruhanpaco/Ruhanpaco/main/assets/flossk-black.svg" width="300" alt="FLOSSK">
 </picture>
 
-**Software Freedom Kosova**
+### Software Freedom Kosova
 
 </td>
 </tr>
@@ -174,38 +174,10 @@ I work across the stack, from interfaces and mobile applications to backend arch
 
 <table>
 <tr>
-<td align="center" width="25%">
-
-### 🔐
-**Digital Access**
-
-Aliro · Home Key · NFC
-
-</td>
-<td align="center" width="25%">
-
-### 📡
-**IoT**
-
-ESP32 · MQTT · Matter
-
-</td>
-<td align="center" width="25%">
-
-### ☁️
-**Cloud**
-
-APIs · Infrastructure · Automation
-
-</td>
-<td align="center" width="25%">
-
-### 🌐
-**Open Source**
-
-Build · Share · Collaborate
-
-</td>
+<td align="center" width="25%"><b>🔐 Digital Access</b><br>Aliro · Home Key · NFC</td>
+<td align="center" width="25%"><b>📡 IoT</b><br>ESP32 · MQTT · Matter</td>
+<td align="center" width="25%"><b>☁️ Cloud</b><br>APIs · Infrastructure · Automation</td>
+<td align="center" width="25%"><b>🌐 Open Source</b><br>Build · Share · Collaborate</td>
 </tr>
 </table>
 
@@ -215,27 +187,9 @@ Build · Share · Collaborate
 
 <table>
 <tr>
-<td width="33%" valign="top">
-
-### 01 · Build
-
-Start with an idea and turn it into something tangible.
-
-</td>
-<td width="33%" valign="top">
-
-### 02 · Understand
-
-Don't stop at the API. Understand what is happening underneath it.
-
-</td>
-<td width="33%" valign="top">
-
-### 03 · Share
-
-Open-source the useful parts and let other people build on them.
-
-</td>
+<td width="33%" valign="top"><h3>01 · Build</h3>Start with an idea and turn it into something tangible.</td>
+<td width="33%" valign="top"><h3>02 · Understand</h3>Don't stop at the API. Understand what is happening underneath it.</td>
+<td width="33%" valign="top"><h3>03 · Share</h3>Open-source the useful parts and let other people build on them.</td>
 </tr>
 </table>
 
@@ -264,12 +218,10 @@ The fun part is usually the thing sitting between two systems that were never de
 <br/>
 
 <a href="https://github.com/Ruhanpaco">
-<img src="https://streak-stats.demolab.com/?user=Ruhanpaco&theme=transparent&hide_border=true" alt="Ruhan's GitHub Streak" />
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Ruhanpaco&theme=transparent&hide_border=true" alt="Ruhan's GitHub Streak" />
 </a>
 
 </div>
-
-> **Note:** The previous stats cards were using public services that are currently unreliable. These cards now use the maintained `github-readme-stats-fast` endpoint and `streak-stats.demolab.com` instead.
 
 ---
 
@@ -297,18 +249,18 @@ Designing applications, APIs, backend systems, mobile apps, and infrastructure.
 
 **🔬 Experimentation**
 
-Taking technologies apart, testing protocols, connecting systems, and learning from the failures.
+Taking technologies apart, testing protocols, connecting systems, and learning from failures.
 
 </td>
 <td width="50%" valign="top">
 
 **🌍 Open Source & Community**
 
-Contributing to projects, helping communities, volunteering at events, and sharing what I learn.
+Contributing to projects, helping communities, and building with other developers.
 
-**🏐 Volleyball & Paravolley**
+**🏐 Outside the Terminal**
 
-When I'm away from a terminal, there's a decent chance I'm on a court.
+Volleyball and paravolley.
 
 </td>
 </tr>
@@ -328,10 +280,10 @@ If you're building something interesting, working on open source, experimenting 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ruhanpaco)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruhan.pacolli@elitedev-agency.online)
 
-<br/><br/>
+<br><br>
 
 <i>Software is the tool. Building is the point.</i>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0D1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:111827&height=100&section=footer" width="100%"/>
