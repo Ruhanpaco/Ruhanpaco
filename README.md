@@ -1,10 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=RUHAN%20PACOLLI&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Founder%20%7C%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:161B22,100:2563EB&height=190&section=header&text=RUHAN%20PACOLLI&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20FOUNDER%20%7C%20BUILDER&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/flosskosova/Flossk_branding/raw/refs/heads/main/logos/symbol/white.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/flosskosova/Flossk_branding/raw/refs/heads/main/logos/symbol/black.svg">
+  <img src="https://github.com/flosskosova/Flossk_branding/raw/refs/heads/main/logos/symbol/black.svg" width="72" alt="FLOSSK logo">
+</picture>
 
 ### Software Engineer · Founder · Open Source · IoT
 
-I build software, experiment with hardware, and turn ambitious ideas into working products.
+**I build software, experiment with hardware, and turn ambitious ideas into working products.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ruhanpaco)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruhan-pacolli/)
@@ -17,7 +23,7 @@ I build software, experiment with hardware, and turn ambitious ideas into workin
 
 ---
 
-## About Me
+## 👋 About Me
 
 I'm **Ruhan Pacolli**, a Software Engineer and the CEO & Founder of **EliteDev Agency**.
 
@@ -25,9 +31,40 @@ I started building websites at **9 years old** and have been exploring technolog
 
 I like building things that cross boundaries. A project might start as a web application and end up involving an ESP32, NFC, MQTT, a mobile application, a cloud API, and a smart-home ecosystem.
 
-I'm also involved in technology communities through **volunteer work, conferences, open-source initiatives, and community projects**. Outside of software, I'm a **volleyball and paravolley player**.
+I'm also active in technology communities through **volunteer work, conferences, open-source initiatives, and community projects**. Outside of software, I'm a **volleyball and paravolley player**.
 
 > I don't just want to use technology. I want to understand how it works, push it further, and build something with it.
+
+---
+
+## 🌍 Community & Organizations
+
+<table>
+<tr>
+<td width="55%" valign="middle">
+
+### FLOSSK / Software Freedom Kosova
+
+I'm part of the **FLOSSK community**, contributing to the open-source and free-software ecosystem in Kosovo through community projects, technical work, events, and collaboration.
+
+FLOSSK is especially close to the kind of work I enjoy: **open source, technology education, community, experimentation, and building in public**.
+
+<a href="https://github.com/flosskosova">Explore FLOSSK on GitHub →</a>
+
+</td>
+<td width="45%" align="center" valign="middle">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/flosskosova/Flossk_branding/raw/refs/heads/main/logos/symbol/white.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/flosskosova/Flossk_branding/raw/refs/heads/main/logos/symbol/black.svg">
+  <img src="https://github.com/flosskosova/Flossk_branding/raw/refs/heads/main/logos/symbol/black.svg" width="150" alt="FLOSSK">
+</picture>
+
+**Software Freedom Kosova**
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -54,7 +91,7 @@ An open-source access-control project built around **ESP32**, exploring interope
 
 My software development company focused on **digital products, custom software, automation, APIs, and modern applications**.
 
-I work across the stack, from interface design and mobile applications to backend architecture and infrastructure.
+I work across the stack, from interfaces and mobile applications to backend architecture and infrastructure.
 
 <a href="https://elitedev-agency.com">Visit EliteDev →</a>
 
@@ -64,9 +101,9 @@ I work across the stack, from interface design and mobile applications to backen
 
 ---
 
-## 🧩 What I Work With
+## 🧩 Technology Stack
 
-### Frontend
+### 🎨 Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -79,7 +116,7 @@ I work across the stack, from interface design and mobile applications to backen
 ![SCSS](https://img.shields.io/badge/SCSS-CF649A?style=for-the-badge&logo=sass&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### Backend & APIs
+### ⚙️ Backend & APIs
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -90,24 +127,14 @@ I work across the stack, from interface design and mobile applications to backen
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
 
-### Languages
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
-### Mobile
+### 📱 Mobile
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
-### Databases & Data
+### 🗄️ Databases & Data
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -117,7 +144,7 @@ I work across the stack, from interface design and mobile applications to backen
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-### Cloud, DevOps & Tools
+### ☁️ Cloud, DevOps & Tools
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -131,13 +158,13 @@ I work across the stack, from interface design and mobile applications to backen
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
-### Embedded & IoT
+### 🔌 Embedded & IoT
 
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Espressif](https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white)
 
@@ -184,43 +211,33 @@ Build · Share · Collaborate
 
 ---
 
-## 🛠️ My Development Philosophy
+## 🛠️ Development Philosophy
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-**01 · Build**
+### 01 · Build
 
 Start with an idea and turn it into something tangible.
 
 </td>
 <td width="33%" valign="top">
 
-**02 · Understand**
+### 02 · Understand
 
 Don't stop at the API. Understand what is happening underneath it.
 
 </td>
 <td width="33%" valign="top">
 
-**03 · Share**
+### 03 · Share
 
-Open source the useful parts and let other people build on them.
+Open-source the useful parts and let other people build on them.
 
 </td>
 </tr>
 </table>
-
----
-
-## 🌍 Community & Open Source
-
-I'm interested in technology communities that make it easier for people to **learn, experiment, collaborate, and build**.
-
-My community work includes volunteer involvement, open-source initiatives, conferences, and technical projects. I'm particularly interested in the intersection of **open source, embedded systems, smart homes, digital access, and developer tooling**.
-
-I also contribute to and collaborate with the **FLOSSK / Software Freedom Kosova** community.
 
 ---
 
@@ -236,18 +253,23 @@ The fun part is usually the thing sitting between two systems that were never de
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ruhanpaco&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruhanpaco&hide_border=true&theme=transparent" height="180" />
+<a href="https://github.com/Ruhanpaco">
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Ruhanpaco&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="Ruhan's GitHub Stats" />
+</a>
+
+<a href="https://github.com/Ruhanpaco">
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ruhanpaco&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Ruhan's Top Languages" />
+</a>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruhanpaco&layout=compact&hide_border=true&theme=transparent" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ruhanpaco&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%" />
+<a href="https://github.com/Ruhanpaco">
+<img src="https://streak-stats.demolab.com/?user=Ruhanpaco&theme=transparent&hide_border=true" alt="Ruhan's GitHub Streak" />
+</a>
 
 </div>
+
+> **Note:** The previous stats cards were using public services that are currently unreliable. These cards now use the maintained `github-readme-stats-fast` endpoint and `streak-stats.demolab.com` instead.
 
 ---
 
@@ -256,10 +278,41 @@ The fun part is usually the thing sitting between two systems that were never de
 <div align="center">
 
 <a href="https://github.com/Ruhanpaco/Aliro-homekey">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ruhanpaco&repo=Aliro-homekey&theme=transparent&hide_border=true" />
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Ruhanpaco&repo=Aliro-homekey&theme=transparent&hide_border=true" alt="Aliro HomeKey" />
 </a>
 
 </div>
+
+---
+
+## 🧭 Where I Spend My Time
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**💻 Software Engineering**
+
+Designing applications, APIs, backend systems, mobile apps, and infrastructure.
+
+**🔬 Experimentation**
+
+Taking technologies apart, testing protocols, connecting systems, and learning from the failures.
+
+</td>
+<td width="50%" valign="top">
+
+**🌍 Open Source & Community**
+
+Contributing to projects, helping communities, volunteering at events, and sharing what I learn.
+
+**🏐 Volleyball & Paravolley**
+
+When I'm away from a terminal, there's a decent chance I'm on a court.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -281,4 +334,4 @@ If you're building something interesting, working on open source, experimenting 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:111827&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0D1117&height=100&section=footer" width="100%"/>
